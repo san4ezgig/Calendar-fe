@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Calendar-fe/static/js/main.2c52d99a.js",
+    "index.html": "/Calendar-fe/index.html",
+    "main.2c52d99a.js.map": "/Calendar-fe/static/js/main.2c52d99a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2c52d99a.js"
+  ]
+}
